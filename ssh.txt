@@ -22,3 +22,14 @@ SSH and GPG
 Add new SSH Key
 give title
 copy paste the key from the vscode
+
+
+OPEN VSCODE
+CREATE FOLDER "Hi_PUPSMB"
+CREATE FILE "index.html"
+
+go to github
+CREATE REPOSITORY "Hi_PUPSMB"
+
+
+
