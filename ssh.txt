@@ -1,0 +1,24 @@
+SSH - 
+GPG - 
+
+login Github
+
+
+
+-- at terminal
+ssh-keygen -t ed25519 -C kennethlavilla1403@gmail.com
+file -> enter
+IF OVERWRITE - y
+passphrase -> enter
+same passphrase -> enter
+
+-- file explorer
+locate the file 
+open the file in visual studio code
+
+-- at github
+Settings
+SSH and GPG
+Add new SSH Key
+give title
+copy paste the key from the vscode
